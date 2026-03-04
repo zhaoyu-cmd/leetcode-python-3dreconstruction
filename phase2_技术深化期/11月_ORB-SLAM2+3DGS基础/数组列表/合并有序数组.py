@@ -1,7 +1,7 @@
 class Solution:
     def merge(self, nums1: list[int], m: int, nums2: list[int], n: int) -> None:
         """
-        o not return anything, modify nums1 in-place instead.
+         not return anything, modify nums1 in-place instead.
         """
         p1=m-1
         p2=n-1
